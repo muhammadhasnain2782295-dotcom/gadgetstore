@@ -1,0 +1,9 @@
+{
+  "name": "Hasnain Gadget Store",
+  "description": "Hasnain Gadget Store - Premium Tech & Mobile Accessories. 12 Months Official Warranty, Open Parcel Before Payment, and 10% Off on Advance Payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
